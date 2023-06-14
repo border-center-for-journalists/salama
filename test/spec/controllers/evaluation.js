@@ -9,7 +9,7 @@ describe('Controller: EvaluationCtrl', function () {
   var urlSite = 'https://raw.githubusercontent.com/icfj-org/salama-content/gh-pages/';
   var urlVersion = urlSite + 'version.txt';
   var urlQuestions = urlSite + 'questions/en_US/individuals.json';
-  var urlApi = 'http://salama-api.herokuapp.com/survey';
+  var urlApi = 'http://salama-api.borderhub.org/survey';
   var urlAdvice = urlSite + 'advices/en_US/low.md';
 
 

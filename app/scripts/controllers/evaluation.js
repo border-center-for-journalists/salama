@@ -674,7 +674,7 @@
     }
 
     function saveSurvey(data) {
-      return $http.post('https://salama-api.herokuapp.com/survey', data);
+      return $http.post('https://salama-api.borderhub.org/survey', data);
     }
 
   }
